@@ -2,7 +2,7 @@
 
 ## docker install:
 
-The application can be built using the `dockerfile` or pulled from docker hub and lanched using the commands
+The application can be built using the `Dockerfile` or pulled from docker hub and lanched using the commands
 ```
 docker pull sdelahaies/app-travelplanner:latest
 docker run -p 8050:8050 sdelahaies/app-travelplanner
