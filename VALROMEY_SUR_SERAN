@@ -1,0 +1,501 @@
+,type,id,geometry.type,geometry.coordinates,properties.xid,properties.name,properties.dist,properties.rate,properties.wikidata,properties.kinds,properties.osm
+0,Feature,14652116,Point,"[5.6674862, 45.9113426]",Q89555731,pont de la Faverge,1120.31703905,5,Q89555731,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+1,Feature,11479950,Point,"[5.6649795, 45.9273224]",N5580460352,,1194.00809909,1,Q90852839,"historic,burial_places,interesting_places,war_memorials",node/5580460352
+2,Feature,11773029,Point,"[5.6651173, 45.9278679]",W256615902,Église Saint-André de Fitignieu,1251.59667449,2,Q27306350,"religion,churches,interesting_places,other_churches",way/256615902
+3,Feature,11230453,Point,"[5.6651435, 45.9278984]",W541161424,cemetery of Fitigneu,1255.38739566,2,Q82245179,"cemeteries,historic,burial_places,interesting_places",way/541161424
+4,Feature,11727774,Point,"[5.6676793, 45.9283791]",N2694315580,Château,1408.85584459,1,Q67772101,"fortifications,historic,interesting_places,castles",node/2694315580
+5,Feature,11326375,Point,"[5.6632109, 45.9056854]",W239910425,Saints Anthony and Maurice chapel of Luthézieu,1473.3022646,7,Q3585554,"religion,churches,interesting_places,other_churches",way/239910425
+6,Feature,11635661,Point,"[5.6614356, 45.9044342]",N5906566333,,1568.73310783,1,Q90853074,"historic,burial_places,interesting_places,war_memorials",node/5906566333
+7,Feature,2237687,Point,"[5.6392746, 45.9256477]",W763340644,cemetery of Charancin,1598.11773934,1,Q82260066,"cemeteries,historic,burial_places,interesting_places",way/763340644
+8,Feature,11635663,Point,"[5.6403384, 45.9269028]",W256615116,Église Saint-Oyen de Charancin,1608.23138702,6,Q27306355,"religion,churches,interesting_places,other_churches",way/256615116
+9,Feature,11266096,Point,"[5.6398125, 45.9270248]",N5580131547,,1648.93358442,1,Q90852593,"historic,burial_places,interesting_places,war_memorials",node/5580131547
+10,Feature,11727773,Point,"[5.6738348, 45.9059486]",W168899997,,1891.88109179,1,Q82243446,"cemeteries,historic,burial_places,interesting_places",way/168899997
+11,Feature,11232123,Point,"[5.6328812, 45.9149551]",W256615928,Chapelle de Saint-Maurice,1896.47947224,1,Q90333275,"religion,churches,interesting_places,other_churches",way/256615928
+12,Feature,14678208,Point,"[5.6739202, 45.905941]",Q106143529,Cemetery cross of Champagne-en-Valromey,1897.17196498,2,Q106143529,"religion,other_temples,interesting_places",
+13,Feature,11266094,Point,"[5.6328368, 45.9148064]",W680210333,cemetery of Saint-Maurice,1903.08516139,1,Q82245296,"cemeteries,historic,burial_places,interesting_places",way/680210333
+14,Feature,2237675,Point,"[5.6337814, 45.9122772]",N8488975928,Croix de mission,1908.92322106,1,,"other,unclassified_objects,interesting_places,historic_object",node/8488975928
+15,Feature,7168501,Point,"[5.6782823, 45.9045372]",W841975064,Fontaine Brillat-Savarin,2248.87141268,1,,"fountains,cultural,urban_environment,interesting_places",way/841975064
+16,Feature,11173684,Point,"[5.6786036, 45.9045486]",W258967153,Église Saint-Symphorien de Champagne-en-Valromey,2266.541132,6,Q27305586,"religion,churches,interesting_places,catholic_churches",way/258967153
+17,Feature,7083047,Point,"[5.6782289, 45.9041786]",N7634344540,Salle des fêtes,2272.79509796,1,,"cultural,cinemas,theatres_and_entertainments,interesting_places",node/7634344540
+18,Feature,11266095,Point,"[5.6789327, 45.9044991]",N5906591116,,2289.29541646,1,Q90852580,"historic,burial_places,interesting_places,war_memorials",node/5906591116
+19,Feature,11415450,Point,"[5.6351523, 45.9021034]",N2222537774,war memorial of Resistance in Valromey,2457.32098809,2,Q90853847,"historic,burial_places,urban_environment,cultural,interesting_places,war_memorials,sculptures",node/2222537774
+20,Feature,11266097,Point,"[5.685802, 45.9275703]",W760418273,,2473.84181979,1,Q82243451,"cemeteries,historic,burial_places,interesting_places",way/760418273
+21,Feature,16251637,Point,"[5.6443691, 45.9398804]",Q89553426,aven de Sutrieu,2599.47348951,5,Q89553426,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+22,Feature,11474797,Point,"[5.6875887, 45.9294357]",W258965750,Église Saint-Maurice de Passin,2690.11240809,2,Q27305584,"religion,churches,interesting_places,other_churches",way/258965750
+23,Feature,2237692,Point,"[5.688179, 45.9303131]",N5577169800,,2776.67098693,1,Q90853240,"historic,burial_places,interesting_places,war_memorials",node/5577169800
+24,Feature,11955492,Point,"[5.6622872, 45.9438705]",W42182772,Voie Romaine,2885.59928332,1,,"cultural,urban_environment,interesting_places,squares",way/42182772
+25,Feature,11727772,Point,"[5.6824808, 45.8982811]",N2474697604,Aqueduc romain,2972.86954961,7,Q2859242,"bridges,architecture,interesting_places,aqueducts",node/2474697604
+26,Feature,14498640,Point,"[5.6704998, 45.8928986]",Q19382779,Canyon of Thurignin,3002.42639124,3,Q19382779,"canyons,interesting_places,natural,geological_formations",
+27,Feature,11790025,Point,"[5.6827822, 45.8976707]",W218001508,Église de l'Assomption de Vieu,3039.20661281,2,Q27306415,"religion,churches,interesting_places,catholic_churches",way/218001508
+28,Feature,11543154,Point,"[5.682972, 45.8975792]",W180217271,,3056.43381281,1,Q82244885,"cemeteries,historic,burial_places,interesting_places",way/180217271
+29,Feature,15107305,Point,"[5.6965518, 45.9161606]",Q89548982,pelouses sèches de Charron,3085.54371122,5,Q89548982,"other,unclassified_objects,interesting_places,historic_object",
+30,Feature,8217212,Point,"[5.6706309, 45.8917389]",N6239423433,Point de vue sur les gorges de Thurignin,3127.02778784,1,,"view_points,other,interesting_places",node/6239423433
+31,Feature,11479951,Point,"[5.6574306, 45.9493599]",N2209797775,Monument aux Morts,3465.37478321,2,Q90853693,"historic,burial_places,interesting_places,war_memorials",node/2209797775
+32,Feature,15786085,Point,"[5.6776438, 45.9468422]",Q89555751,ruisseau du Séran à Lilignod,3569.18437457,5,Q89555751,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+33,Feature,11543153,Point,"[5.681694, 45.8909988]",N5228440830,,3582.79297739,1,Q90853771,"historic,burial_places,interesting_places,war_memorials",node/5228440830
+34,Feature,2237686,Point,"[5.6576638, 45.9504356]",N2212535282,Vierge de Sutrieu,3585.22116511,1,,"religion,other_temples,interesting_places",node/2212535282
+35,Feature,8075706,Point,"[5.6854973, 45.8923912]",W108194708,Chapelle de la Doue,3626.06177787,1,,"religion,churches,interesting_places,other_churches",way/108194708
+36,Feature,2237690,Point,"[5.6594338, 45.9507561]",W256615121,Église Saint-Laurent de Sutrieu,3625.82045184,7,Q18539456,"religion,churches,interesting_places,other_churches",way/256615121
+37,Feature,15794941,Point,"[5.6908441, 45.9408379]",Q89548793,pelouse sèche d'Ossy,3643.71182417,5,Q89548793,"other,unclassified_objects,interesting_places,historic_object",
+38,Feature,15103191,Point,"[5.6731629, 45.8873558]",Q89553778,cours du Séran des gorges de Turignin à la cascade de Cerveyrieu,3652.20648135,5,Q89553778,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+39,Feature,14642271,Point,"[5.6973486, 45.9376068]",Q89548877,pelouse sèche des Gravelles,3809.21732419,5,Q89548877,"other,unclassified_objects,interesting_places,historic_object",
+40,Feature,14881111,Point,"[5.6946087, 45.8944359]",Q89553786,cours supérieur du ruisseau de l'Arvière,3941.55596607,5,Q89553786,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+41,Feature,8093511,Point,"[5.6780152, 45.9515724]",N2678476807,Moulin,4056.88329647,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",node/2678476807
+42,Feature,11543151,Point,"[5.6638513, 45.8817825]",N5567594672,,4081.93847172,1,Q90852471,"historic,burial_places,interesting_places,war_memorials",node/5567594672
+43,Feature,11490704,Point,"[5.6784859, 45.9517975]",N2678480515,Le Puits des Tines,4094.4504976,3,Q19368619,"water,natural,interesting_places,waterfalls",node/2678480515
+44,Feature,11474796,Point,"[5.6621695, 45.8814468]",W239909373,Église Saint-Oyen de Belmont,4103.78637635,2,Q27305493,"religion,churches,interesting_places,catholic_churches",way/239909373
+45,Feature,5739367,Point,"[5.7058549, 45.9354248]",W841980715,Fontaine médiévale de Poisieu,4254.41397906,1,,"fountains,cultural,urban_environment,interesting_places",way/841980715
+46,Feature,9799964,Point,"[5.7061391, 45.9354706]",N7546872685,Croix,4276.33828418,1,,"other,unclassified_objects,interesting_places,historic_object",node/7546872685
+47,Feature,2133855,Point,"[5.6009789, 45.9130249]",N7797313722,Monument de la 5e Compagnie F.U.J.,4374.98488609,1,,"historic,burial_places,interesting_places,war_memorials",node/7797313722
+48,Feature,2237681,Point,"[5.6886754, 45.883255]",N6239616013,Gouffre du diable,4600.00107739,1,,"view_points,other,interesting_places",node/6239616013
+49,Feature,14729266,Point,"[5.6294999, 45.9548988]",Q20723613,Mont Planachat,4600.41450665,2,Q20723613,"mountain_peaks,interesting_places,natural,geological_formations",
+50,Feature,2237688,Point,"[5.6294746, 45.9549599]",N2991032365,Belvédère de Planachat,4607.21065399,1,,"view_points,other,interesting_places",node/2991032365
+51,Feature,2237680,Point,"[5.6785507, 45.8792763]",N2606372456,Point de vue sur la cascade de Cerveyrieu,4639.858267,1,,"view_points,other,interesting_places",node/2606372456
+52,Feature,11955493,Point,"[5.6590686, 45.9599533]",W885324674,Route Romaine,4645.45791572,1,,"cultural,urban_environment,interesting_places,squares",way/885324674
+53,Feature,2237678,Point,"[5.6789818, 45.8792992]",N944895819,Cascade de Cerveyrieu,4649.84021431,3,Q19371162,"water,natural,interesting_places,waterfalls",node/944895819
+54,Feature,11266098,Point,"[5.6882763, 45.9539833]",W763396071,cemetery of Lilignod,4664.58166353,2,Q82292164,"cemeteries,historic,burial_places,interesting_places",way/763396071
+55,Feature,11786619,Point,"[5.6883163, 45.9539757]",W258965747,Chapelle de Lilignod,4665.39120232,2,Q65945355,"religion,churches,interesting_places,other_churches",way/258965747
+56,Feature,15566599,Point,"[5.679554, 45.8785934]",Q89553451,cascade du Séran,4739.26501186,5,Q89553451,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+57,Feature,11469758,Point,"[5.661684, 45.9607773]",W210388659,Église Saint-Michel de Lompnieu,4748.93013655,2,Q27305910,"religion,churches,interesting_places,other_churches",way/210388659
+58,Feature,11543155,Point,"[5.6596928, 45.9613457]",N5893762559,,4802.28053005,1,Q90853058,"historic,burial_places,interesting_places,war_memorials",node/5893762559
+59,Feature,5109166,Point,"[5.660563, 45.9613647]",N2338630956,Vierge de Lompnieu,4807.75718857,1,,"religion,other_temples,interesting_places",node/2338630956
+60,Feature,7192974,Point,"[5.6618032, 45.9617805]",W210388807,Lavoir,4860.79363015,1,,"fountains,cultural,urban_environment,interesting_places",way/210388807
+61,Feature,11398298,Point,"[5.7138724, 45.9389992]",N411448643,Le Pain de Sucre,4989.04044015,3,Q2940867,"water,natural,interesting_places,waterfalls",node/411448643
+62,Feature,11726262,Point,"[5.612021, 45.9518547]",N4953280025,Monument aux Morts,5110.00902586,2,Q90852695,"historic,burial_places,interesting_places,war_memorials",node/4953280025
+63,Feature,2237402,Point,"[5.6884222, 45.8778534]",N4093377232,Gouffre à Balthazar,5107.53471819,1,,"water,natural,interesting_places,waterfalls",node/4093377232
+64,Feature,11790084,Point,"[5.6129527, 45.9541473]",W166856977,Église Saint-Martin de Cormaranche-en-Bugey,5252.29707767,2,Q27305674,"religion,churches,interesting_places,catholic_churches",way/166856977
+65,Feature,7192960,Point,"[5.6091175, 45.9519234]",W161319629,Bac du Frêne,5271.31128884,1,,"fountains,cultural,urban_environment,interesting_places",way/161319629
+66,Feature,11417440,Point,"[5.5979586, 45.8935051]",W256509992,Église de l'Assomption de Thézillieu,5332.00699557,2,Q27306372,"religion,churches,interesting_places,other_churches",way/256509992
+67,Feature,11386667,Point,"[5.5979586, 45.8935051]",R10788117,Église de l'Assomption de Thézillieu,5332.00699557,2,Q27306372,"religion,churches,interesting_places,other_churches",relation/10788117
+68,Feature,11450382,Point,"[5.7250638, 45.9118118]",W285517673,,5336.68762714,1,Q82244927,"cemeteries,historic,burial_places,interesting_places",way/285517673
+69,Feature,11727775,Point,"[5.7248101, 45.9087219]",W256791981,Église Saint-Pierre de Virieu-le-Petit,5373.84786202,2,Q27306441,"religion,churches,interesting_places,other_churches",way/256791981
+70,Feature,11635664,Point,"[5.7247839, 45.9085159]",N5906557581,,5376.38945634,1,Q90853818,"historic,burial_places,interesting_places,war_memorials",node/5906557581
+71,Feature,11448764,Point,"[5.597156, 45.8933487]",N4934376935,,5394.47303217,1,Q90853702,"historic,burial_places,interesting_places,war_memorials",node/4934376935
+72,Feature,14678256,Point,"[5.59654, 45.8936882]",Q106211921,Croix de la Route du Champ,5416.42720353,2,Q106211921,"religion,other_temples,interesting_places",
+73,Feature,2133866,Point,"[5.6128669, 45.9561996]",N2984724831,Calvaire,5431.98943757,1,,"other,unclassified_objects,interesting_places,historic_object",node/2984724831
+74,Feature,11787561,Point,"[5.6914821, 45.8751678]",W81062846,Église Saint-Martin d'Artemare,5483.6835663,2,Q27305470,"religion,churches,interesting_places,other_churches",way/81062846
+75,Feature,6816540,Point,"[5.5898438, 45.9344101]",N4892567268,Grotte de Vaux-Saint-Sulpice,5503.94655828,1,,"geological_formations,natural,interesting_places,caves",node/4892567268
+76,Feature,11708784,Point,"[5.5950298, 45.8938828]",W256509910,,5507.4329372,1,Q82244809,"cemeteries,historic,burial_places,interesting_places",way/256509910
+77,Feature,9968671,Point,"[5.5888968, 45.9333]",N8976564081,Entrée de l'Âge de Glace (grotte de Vaux),5534.69974882,1,,"geological_formations,natural,interesting_places,caves",node/8976564081
+78,Feature,11801438,Point,"[5.6927752, 45.8751144]",N5567584491,,5538.48364632,1,Q90852436,"historic,burial_places,interesting_places,war_memorials",node/5567584491
+79,Feature,11571214,Point,"[5.7266927, 45.9296837]",W210386723,Musée du Bugey-Valromey,5563.78512699,3,Q3330537,"cultural,museums,interesting_places,other_museums",way/210386723
+80,Feature,11173686,Point,"[5.727109, 45.9323692]",W540762322,,5670.74216428,1,Q82244067,"cemeteries,historic,burial_places,interesting_places",way/540762322
+81,Feature,11543156,Point,"[5.7279983, 45.9302864]",W210386742,Église de l'Assomption de Lochieu,5677.80102449,2,Q27305900,"religion,churches,interesting_places,catholic_churches",way/210386742
+82,Feature,11173687,Point,"[5.7281222, 45.930027]",N5906555880,Monument aux Morts,5680.45836864,2,Q90853048,"historic,burial_places,interesting_places,war_memorials",node/5906555880
+83,Feature,16048689,Point,"[5.7272701, 45.9323997]",Q106117567,Cemetery cross of Lochieu,5683.62766333,2,Q106117567,"religion,other_temples,interesting_places",
+84,Feature,2237407,Point,"[5.6938095, 45.8735352]",N5567585116,,5730.81708721,1,Q90852439,"historic,burial_places,interesting_places,war_memorials",node/5567585116
+85,Feature,14652056,Point,"[5.6883774, 45.9648628]",Q89555750,ruisseau du Culéu à Bassieu,5734.39392725,5,Q89555750,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+86,Feature,4907214,Point,"[5.6795092, 45.8689613]",N3221466489,Le Fierloz,5746.14343814,1,,"mountain_peaks,geological_formations,natural,interesting_places",node/3221466489
+87,Feature,2133868,Point,"[5.6066418, 45.9564857]",N1733110126,Tilleul de Sully à Cormaranche-en-Bugey,5770.93349145,1,,"other,unclassified_objects,interesting_places,tourist_object",node/1733110126
+88,Feature,16059379,Point,"[5.6833334, 45.9666672]",Q2509499,Valromey,5765.8250223,6,Q2509499,"other,unclassified_objects,interesting_places,historic_object",
+89,Feature,2133865,Point,"[5.6065068, 45.956604]",N1733110092,Calvaire,5787.69313883,1,,"other,unclassified_objects,interesting_places,historic_object",node/1733110092
+90,Feature,11227821,Point,"[5.7027617, 45.8767357]",W239695688,Castle of Machuraz,5822.51445007,7,Q2970087,"fortifications,historic,interesting_places,castles",way/239695688
+91,Feature,15793210,Point,"[5.72018, 45.9490089]",Q82243375,cemetery of Brénaz,5986.34085515,2,Q82243375,"cemeteries,historic,burial_places,interesting_places",
+92,Feature,11266100,Point,"[5.7201819, 45.9490089]",W256785067,,5986.34758321,1,Q82244716,"cemeteries,historic,burial_places,interesting_places",way/256785067
+93,Feature,2237399,Point,"[5.6875772, 45.8683662]",N3221466490,Vierge,6027.90751521,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/3221466490
+94,Feature,11266099,Point,"[5.7139745, 45.8809776]",W217995839,Église Saint-André de Chavornay,6060.56815333,2,Q27305624,"religion,churches,interesting_places,catholic_churches",way/217995839
+95,Feature,11358727,Point,"[5.7227297, 45.9477654]",N5906554954,,6073.6452655,1,Q90852533,"historic,burial_places,interesting_places,war_memorials",node/5906554954
+96,Feature,11603847,Point,"[5.7228007, 45.9476929]",W256785089,Église de l'Annonciation de Brénaz,6073.84810214,2,Q27305539,"religion,churches,interesting_places,other_churches",way/256785089
+97,Feature,11727757,Point,"[5.6881661, 45.8681602]",N6874864854,Statue de Jean-Marc du Bugey,6067.19587021,2,Q70683657,"historic,monuments_and_memorials,urban_environment,cultural,interesting_places,sculptures,monuments",node/6874864854
+98,Feature,11357264,Point,"[5.5843501, 45.8973961]",N4398769492,Ancienne Abbaye de Saint-Sulpice,6083.92985906,7,Q1572876,"religion,architecture,historic_architecture,monasteries,interesting_places,destroyed_objects",node/4398769492
+99,Feature,11173685,Point,"[5.7171264, 45.8826294]",N5906560987,,6121.41849967,1,Q90852615,"historic,burial_places,interesting_places,war_memorials",node/5906560987
+100,Feature,15566594,Point,"[5.6630578, 45.8618546]",Q89550226,prairies et marais du Fays,6279.55148539,5,Q89550226,"other,unclassified_objects,interesting_places,historic_object",
+101,Feature,2133901,Point,"[5.6215663, 45.9696655]",N5498920100,Belvédère du Curnillon,6343.82996595,1,,"view_points,other,interesting_places",node/5498920100
+102,Feature,15184736,Point,"[5.6265001, 45.9715004]",Q18920448,Chapel of Mazières,6377.15603699,3,Q18920448,"religion,churches,interesting_places,other_churches",
+103,Feature,15110151,Point,"[5.6905165, 45.9708328]",Q89548798,pelouse sèche de Bassieu,6406.73731373,5,Q89548798,"other,unclassified_objects,interesting_places,historic_object",
+104,Feature,2237724,Point,"[5.6940351, 45.9697609]",W810443177,Châteuneuf,6415.87767496,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",way/810443177
+105,Feature,9974511,Point,"[5.6940789, 45.9701233]",W810443176,Châteauneuf,6453.20869675,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",way/810443176
+106,Feature,11543157,Point,"[5.6985226, 45.9685516]",N7577485808,Grotte,6462.65539627,5,Q89554085,"geological_formations,natural,interesting_places,nature_reserves,caves,other_nature_conservation_areas",node/7577485808
+107,Feature,2237723,Point,"[5.6990666, 45.9685097]",N3265401685,Cascade de la Fontaine d'Argent,6479.75300611,1,,"water,natural,interesting_places,waterfalls",node/3265401685
+108,Feature,11582902,Point,"[5.7003174, 45.968586]",N3264836271,Grotte du Pic,6536.47803639,5,Q89554085,"geological_formations,natural,interesting_places,nature_reserves,caves,other_nature_conservation_areas",node/3264836271
+109,Feature,11583320,Point,"[5.700501, 45.9685898]",N3265401559,Cascade de la Grotte du Pic,6544.05203208,5,Q89554085,"geological_formations,water,natural,interesting_places,waterfalls,nature_reserves,caves,other_nature_conservation_areas",node/3265401559
+110,Feature,5739334,Point,"[5.7122421, 45.871685]",W41928349,Chapelle Saint-Blaise,6720.76624085,2,Q58131081,"religion,churches,interesting_places,catholic_churches",way/41928349
+111,Feature,6816541,Point,"[5.5828791, 45.9504509]",N8516441417,Trou Garou,6767.93110884,1,,"geological_formations,natural,interesting_places,caves",node/8516441417
+112,Feature,14642467,Point,"[5.6376915, 45.8584099]",Q89555684,montagne de Sérémond,6809.10971301,5,Q89555684,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+113,Feature,15788891,Point,"[5.659668, 45.8567429]",Q89555732,pont Navet,6832.54180856,5,Q89555732,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+114,Feature,2237396,Point,"[5.6270194, 45.8599701]",N4893800222,Belvédère du Sérémond,6873.35087674,1,,"view_points,other,interesting_places",node/4893800222
+115,Feature,11173675,Point,"[5.7139511, 45.8703918]",N5568693161,,6916.27409202,1,Q90853697,"historic,burial_places,interesting_places,war_memorials",node/5568693161
+116,Feature,11358720,Point,"[5.7137904, 45.8702469]",W39390483,,6920.69436298,1,Q82244805,"cemeteries,historic,burial_places,interesting_places",way/39390483
+117,Feature,2237701,Point,"[5.7476549, 45.9175644]",N5839833518,Grotte de Saint-Arthaud,7042.06864871,1,,"geological_formations,natural,interesting_places,caves",node/5839833518
+118,Feature,11266101,Point,"[5.7026434, 45.9735489]",N5893769869,,7103.35269648,1,Q90853679,"historic,burial_places,interesting_places,war_memorials",node/5893769869
+119,Feature,2237725,Point,"[5.7032785, 45.9735985]",N2440092702,Tilleul de Sully à Songieu,7132.84041304,1,,"other,unclassified_objects,interesting_places,tourist_object",node/2440092702
+120,Feature,11325101,Point,"[5.70327, 45.9737854]",W256613590,Église Saint-Martin de Songieu,7150.40364215,2,Q42433434,"religion,churches,interesting_places,other_churches",way/256613590
+121,Feature,2237696,Point,"[5.7415638, 45.8924866]",N2618540146,Vierge de la Combe,7164.61328579,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/2618540146
+122,Feature,9974493,Point,"[5.6298399, 45.8552017]",N8773158878,Cascade du Niaz,7308.31482532,1,,"water,natural,interesting_places,waterfalls",node/8773158878
+123,Feature,4929901,Point,"[5.638341, 45.8531342]",N3062817810,Cascade de Clairefontaine,7372.07722173,1,,"water,natural,interesting_places,waterfalls",node/3062817810
+124,Feature,2237446,Point,"[5.7220268, 45.8693962]",N1493304780,Notre-Dame des vignes,7414.17890076,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/1493304780
+125,Feature,15093605,Point,"[5.6487432, 45.8509407]",Q62053970,Temple protestant de Virieu-le-Grand,7501.00347814,2,Q62053970,"religion,churches,interesting_places,other_churches",
+126,Feature,2237700,Point,"[5.7532115, 45.9055557]",N2625662074,Roc Passin,7604.28744174,1,,"mountain_peaks,geological_formations,natural,interesting_places",node/2625662074
+127,Feature,15108014,Point,"[5.6411495, 45.8508339]",Q89549853,pelouses sèches de Virieu-le-Grand,7584.82362881,5,Q89549853,"other,unclassified_objects,interesting_places,historic_object",
+128,Feature,4928707,Point,"[5.7089396, 45.8596535]",N684139503,Diaclase de Talissieu,7658.14774167,1,,"geological_formations,natural,interesting_places,caves",node/684139503
+129,Feature,11311397,Point,"[5.6488404, 45.8494453]",W257535664,Maison Mugnier,7665.64532856,7,Q3278910,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",way/257535664
+130,Feature,11311398,Point,"[5.6485906, 45.8494568]",W257535591,Maison des Seigneurs de Longecombe,7666.19588478,7,Q14627720,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",way/257535591
+131,Feature,11635650,Point,"[5.6770277, 45.8505135]",W258543364,Église Saint-Martin de Saint-Martin-de-Bavel,7682.31331391,2,Q27306227,"religion,churches,interesting_places,other_churches",way/258543364
+132,Feature,16022516,Point,"[5.6992421, 45.9809227]",Q89545260,étang des Alliettes,7707.95751005,5,Q89545260,"water,interesting_places,natural,other_lakes",
+133,Feature,2237450,Point,"[5.7303176, 45.8713112]",N477304966,Belvédère du pierrier,7721.73125376,1,,"view_points,other,interesting_places",node/477304966
+134,Feature,11172260,Point,"[5.6023803, 45.9762993]",N5912770112,,7719.2044019,1,Q90852898,"historic,burial_places,interesting_places,war_memorials",node/5912770112
+135,Feature,11567395,Point,"[5.6036382, 45.9768791]",W181159349,Église Notre-Dame de l'Assomption de Hauteville,7720.32451736,2,Q27305807,"religion,churches,interesting_places,other_churches",way/181159349
+136,Feature,2237398,Point,"[5.6803918, 45.8501282]",N5907846600,,7781.25681551,1,Q90853539,"historic,burial_places,interesting_places,war_memorials",node/5907846600
+137,Feature,11431237,Point,"[5.6493311, 45.8481407]",N36787205,Virieu-le-Grand,7807.60252022,7,Q2968260,"fortifications,historic,historical_places,interesting_places,castles,historic_settlements",node/36787205
+138,Feature,11605785,Point,"[5.6487217, 45.8480873]",W257535679,Église Saint-Romain de Virieu-le-Grand,7817.16768317,2,Q27306438,"religion,churches,interesting_places,catholic_churches",way/257535679
+139,Feature,11512455,Point,"[5.7243118, 45.865799]",W39390486,Église Saint-Christophe de Talissieu,7828.9290487,2,Q27306361,"religion,churches,interesting_places,catholic_churches",way/39390486
+140,Feature,2133896,Point,"[5.6000748, 45.9764442]",N5498629781,Les Enfants d'Yzieu,7831.68214116,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/5498629781
+141,Feature,11502139,Point,"[5.6016922, 45.9772453]",N7632667481,Novelty,7836.38949988,1,Q61860338,"cultural,cinemas,theatres_and_entertainments,interesting_places",node/7632667481
+142,Feature,11266087,Point,"[5.6514945, 45.8473473]",N5568703706,,7884.55522482,1,Q90853815,"historic,burial_places,interesting_places,war_memorials",node/5568703706
+143,Feature,11358714,Point,"[5.6459112, 45.8474693]",N2474056293,Château de Virieu-le-Grand,7906.11950805,7,Q2968260,"architecture,historic_architecture,fortifications,historic,interesting_places,destroyed_objects,castles",node/2474056293
+144,Feature,11357268,Point,"[5.605073, 45.979599]",N5580299532,,7920.63322414,1,Q90852900,"historic,burial_places,interesting_places,war_memorials",node/5580299532
+145,Feature,6816539,Point,"[5.5715346, 45.9576607]",N8517652614,Gouffre de la Mort,7941.13555886,1,,"geological_formations,natural,interesting_places,caves",node/8517652614
+146,Feature,6633017,Point,"[5.753068, 45.9430695]",N4233866110,L'Hergues,7956.18912904,1,,"mountain_peaks,geological_formations,natural,interesting_places",node/4233866110
+147,Feature,11247357,Point,"[5.7262292, 45.9711685]",W256613596,Chapelle Sainte-Agathe,7974.57473892,2,Q60366011,"religion,churches,interesting_places,other_churches",way/256613596
+148,Feature,15832216,Point,"[5.625, 45.8499985]",Q2908979,bois de Charley,7972.61463,6,Q2908979,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+149,Feature,11450369,Point,"[5.7287412, 45.8659554]",W39390708,Château Froid,8050.10803314,1,Q67772321,"fortifications,historic,interesting_places,castles",way/39390708
+150,Feature,11450370,Point,"[5.72856, 45.8657837]",N2050955848,À Château Froid,8054.1186686,1,Q67772321,"fortifications,historic,interesting_places,castles",node/2050955848
+151,Feature,11173688,Point,"[5.7598858, 45.9315872]",W180159659,Chartreuse d'Arvières,8127.28113751,7,Q2961254,"accomodations,destroyed_objects,religion,villas_and_chalet,monasteries,interesting_places,architecture,historic_architecture",way/180159659
+152,Feature,14651931,Point,"[5.5526237, 45.9096031]",Q89549796,pelouses sèches de Saint-Sulpice-le-Vieux,8144.93990378,5,Q89549796,"other,unclassified_objects,interesting_places,historic_object",
+153,Feature,2133907,Point,"[5.6054387, 45.9821854]",N5580107937,Monument au Docteur Bonafe,8155.49268739,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/5580107937
+154,Feature,11601107,Point,"[5.6044059, 45.9821854]",N5580038968,,8195.19773994,1,Q90853055,"historic,burial_places,interesting_places,war_memorials",node/5580038968
+155,Feature,11358726,Point,"[5.7614794, 45.9061699]",N2174814409,Croix du Colombier,8224.16268511,2,Q65621679,"religion,other_temples,interesting_places",node/2174814409
+156,Feature,11469688,Point,"[5.5708075, 45.8749275]",W251687743,Église Sainte-Marie-Madeleine de Prémillieu,8230.71393865,2,Q27306114,"religion,churches,interesting_places,other_churches",way/251687743
+157,Feature,6816538,Point,"[5.5628772, 45.9526367]",N4890355151,Trou de l'Âne à Germain,8235.09102615,1,,"geological_formations,natural,interesting_places,caves",node/4890355151
+158,Feature,11581041,Point,"[5.7609029, 45.9012337]",N26863774,Grand Colombier,8287.73566458,3,Q748241,"mountain_peaks,geological_formations,natural,interesting_places",node/26863774
+159,Feature,14879782,Point,"[5.662456, 45.8436623]",Q89555742,rochers de la Cra,8294.45327851,5,Q89555742,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+160,Feature,2133908,Point,"[5.6042399, 45.9837074]",N4739454137,Salle du royaume,8348.58718298,1,,"religion,other_temples,interesting_places",node/4739454137
+161,Feature,11508259,Point,"[5.663868, 45.9942665]",N5103913451,,8473.87947427,1,Q90853416,"historic,burial_places,interesting_places,war_memorials",node/5103913451
+162,Feature,6633016,Point,"[5.7604995, 45.8934097]",N3919002153,Pierre Fillola,8498.44182738,1,,"mountain_peaks,geological_formations,natural,interesting_places",node/3919002153
+163,Feature,11357255,Point,"[5.5695076, 45.8721046]",N5912195623,,8498.05222412,1,Q90853344,"historic,burial_places,interesting_places,war_memorials",node/5912195623
+164,Feature,11172245,Point,"[5.5695767, 45.8720207]",W251687725,,8499.54633289,1,Q82244437,"cemeteries,historic,burial_places,interesting_places",way/251687725
+165,Feature,11203068,Point,"[5.663003, 45.9944267]",W248316864,Église Saint-Didier de Ruffieu,8487.3711349,2,Q27306137,"religion,churches,interesting_places,catholic_churches",way/248316864
+166,Feature,11601870,Point,"[5.6051531, 45.9860802]",W181161265,Chapelle Saint-Pierre,8546.25304844,2,Q55070712,"religion,churches,interesting_places,other_churches",way/181161265
+167,Feature,15780210,Point,"[5.7639999, 45.9370003]",Q65953569,La Griffe Du Diable (De La),8567.4674048,1,Q65953569,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+168,Feature,6633015,Point,"[5.7597647, 45.8892784]",N3919002152,Pierre Amion,8605.44997511,1,,"mountain_peaks,geological_formations,natural,interesting_places",node/3919002152
+169,Feature,16022510,Point,"[5.7089071, 45.9868355]",Q89545214,ancien étang de Comboz,8630.9291352,5,Q89545214,"water,interesting_places,natural,other_lakes",
+170,Feature,11634168,Point,"[5.5523119, 45.9459839]",W763396865,cemetery of Longecombe,8679.11724586,1,Q82292592,"cemeteries,historic,burial_places,interesting_places",way/763396865
+171,Feature,16016033,Point,"[5.7167177, 45.8520012]",Q89550237,prairies de la Messe au Loup,8699.78578665,5,Q89550237,"other,unclassified_objects,interesting_places,historic_object",
+172,Feature,6202502,Point,"[5.750124, 45.8741531]",N528142738,Champ du Raz,8735.84810901,1,,"view_points,other,mountain_peaks,geological_formations,interesting_places,natural",node/528142738
+173,Feature,2237704,Point,"[5.7700691, 45.9182701]",N3148942198,Sous Charbemènes,8780.53692489,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",node/3148942198
+174,Feature,11583277,Point,"[5.5658679, 45.966095]",N409632220,Cascade de la Charabotte,8841.44641503,7,Q2940853,"water,natural,interesting_places,waterfalls",node/409632220
+175,Feature,11173689,Point,"[5.6643505, 45.9977379]",W763349775,cemetery of Ruffieu,8861.28618999,1,Q82267163,"cemeteries,historic,burial_places,interesting_places",way/763349775
+176,Feature,11512912,Point,"[5.550983, 45.9491501]",W181159235,Église Saint-Pierre de Longecombe,8905.30372405,2,Q27305811,"religion,churches,interesting_places,catholic_churches",way/181159235
+177,Feature,11172258,Point,"[5.5508313, 45.9492035]",N5580076220,,8918.36432635,1,Q90853061,"historic,burial_places,interesting_places,war_memorials",node/5580076220
+178,Feature,15788889,Point,"[5.7684445, 45.9388313]",Q89550221,prairies et landes sommitales du Grand Colombier,8951.99497544,5,Q89550221,"other,unclassified_objects,interesting_places,historic_object",
+179,Feature,15393228,Point,"[5.55056, 45.9496994]",Q15940217,château de Longecombe,8959.23334628,2,Q15940217,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,other_fortifications",
+180,Feature,2237702,Point,"[5.7714887, 45.9068108]",N4890171801,Gouffre de la Perche,8981.02570795,1,,"geological_formations,natural,interesting_places,caves",node/4890171801
+181,Feature,6817060,Point,"[5.772913, 45.9185524]",N4890217828,Gouffre de l'Empogne,9001.22346275,1,,"geological_formations,natural,interesting_places,caves",node/4890217828
+182,Feature,2237452,Point,"[5.7455449, 45.8646507]",N681719374,La roche percée,9097.12949568,1,,"other,unclassified_objects,interesting_places,tourist_object",node/681719374
+183,Feature,9968670,Point,"[5.5494013, 45.9513397]",N4106274950,Statue de la Vierge,9114.0620728,1,,"historic,monuments_and_memorials,cultural,urban_environment,interesting_places,sculptures,monuments",node/4106274950
+184,Feature,6816537,Point,"[5.5574222, 45.9618759]",N3544670914,Grotte de Charabotte,9114.53439779,1,,"geological_formations,natural,interesting_places,caves",node/3544670914
+185,Feature,8120624,Point,"[5.7715621, 45.8973732]",W218174294,Granges de Scioux,9193.73335104,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",way/218174294
+186,Feature,11285314,Point,"[5.6088924, 45.8427238]",W162234957,Chapelle Sainte-Catherine-et-Saint-Nicolas,9177.59879807,2,Q60367472,"religion,churches,interesting_places,other_churches",way/162234957
+187,Feature,15107265,Point,"[5.611908, 45.8414345]",Q89548930,pelouses sèches d'Égieu,9217.59339268,5,Q89548930,"other,unclassified_objects,interesting_places,historic_object",
+188,Feature,11508260,Point,"[5.6932487, 45.9974251]",N5580048320,,9247.7832665,1,Q90852907,"historic,burial_places,interesting_places,war_memorials",node/5580048320
+189,Feature,6308594,Point,"[5.5867357, 45.850708]",N7797411368,,9268.19845642,1,Q98152511,"religion,other_temples,historic,burial_places,interesting_places,war_memorials",node/7797411368
+190,Feature,11584155,Point,"[5.6934462, 45.9975357]",W236493425,Église Saint-Romain d'Hotonnes,9264.22149469,6,Q42722984,"religion,churches,interesting_places,catholic_churches",way/236493425
+191,Feature,11634156,Point,"[5.5865455, 45.8507195]",W755787494,,9275.92417419,1,Q82243221,"cemeteries,historic,burial_places,interesting_places",way/755787494
+192,Feature,2237719,Point,"[5.7674146, 45.9513245]",N3934621129,Croix de Famban,9329.85850934,1,,"other,unclassified_objects,interesting_places,historic_object",node/3934621129
+193,Feature,14880890,Point,"[5.5398469, 45.8985062]",Q89548934,pelouses sèches d'Hostiaz,9340.84400607,5,Q89548934,"other,unclassified_objects,interesting_places,historic_object",
+194,Feature,2237449,Point,"[5.7448721, 45.8604546]",N681758835,Château de Luyrieu,9370.95603112,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",node/681758835
+195,Feature,14881101,Point,"[5.5829353, 45.8506622]",Q89548783,pelouse sèche d'Armix,9448.77401431,5,Q89548783,"other,unclassified_objects,interesting_places,historic_object",
+196,Feature,6308595,Point,"[5.5858407, 45.8489571]",W251686546,Église Sainte-Catherine d'Armix,9466.82212367,2,Q27305469,"religion,churches,interesting_places,other_churches",way/251686546
+197,Feature,11448759,Point,"[5.5857825, 45.8488884]",N5907381712,,9475.55152903,1,Q90852431,"historic,burial_places,interesting_places,war_memorials",node/5907381712
+198,Feature,2133646,Point,"[5.6083245, 45.8398361]",N1733865770,Point de Vue,9489.33540476,1,,"view_points,other,interesting_places",node/1733865770
+199,Feature,11787517,Point,"[5.5357771, 45.9031906]",W256508164,Église Saint-Laurent d'Hostiaz,9543.12662294,2,Q27305813,"religion,churches,interesting_places,other_churches",way/256508164
+200,Feature,2133889,Point,"[5.5707436, 45.9798279]",N7797308600,Monument des Carrières aux combattants des F.U.J.P.,9568.45807533,1,,"historic,burial_places,interesting_places,war_memorials",node/7797308600
+201,Feature,16022334,Point,"[5.5383525, 45.8934784]",Q89554913,gorges de l'Albarine et cluse des Hôpitaux,9598.65510877,6,Q89554913,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+202,Feature,14652109,Point,"[5.5333219, 45.9259872]",Q89554083,grotte de Tréfiez,9624.15556352,5,Q89554083,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+203,Feature,11693018,Point,"[5.5348239, 45.9012833]",N5567719877,,9655.14889508,1,Q90852904,"historic,burial_places,interesting_places,war_memorials",node/5567719877
+204,Feature,16022380,Point,"[5.7582078, 45.8661346]",Q89555702,pentes du Grand Colombier,9762.87713054,5,Q89555702,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+205,Feature,16022565,Point,"[5.69871, 45.8349495]",Q89602120,parc du Château de Grammont,9804.77563823,5,Q89602120,"gardens_and_parks,cultural,urban_environment,interesting_places",
+206,Feature,15335319,Point,"[5.6986308, 45.8348122]",Q89555689,parc et château de Grammont,9817.05076041,5,Q89555689,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+207,Feature,11173672,Point,"[5.6989002, 45.8347282]",W80941553,Château de Grammont,9833.09543437,1,Q67772365,"fortifications,historic,interesting_places,castles",way/80941553
+208,Feature,16022536,Point,"[5.5739427, 45.8508682]",Q89551048,marais de la Léchère du Golet Miron,9870.83422873,5,Q89551048,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+209,Feature,11173673,Point,"[5.7013288, 45.8347778]",N343848350,Grammont,9892.01832339,1,Q67772365,"fortifications,historic,interesting_places,castles",node/343848350
+210,Feature,4928708,Point,"[5.7664418, 45.8708305]",N4804196263,Gouffre des Gentianes,10000.09212673,1,,"geological_formations,natural,interesting_places,caves",node/4804196263
+211,Feature,11377480,Point,"[5.6845975, 46.0060387]",W236493446,Chapelle Saint-Joseph,9998.51386284,2,Q60378191,"religion,churches,interesting_places,other_churches",way/236493446
+212,Feature,6817055,Point,"[5.7709355, 45.8739204]",N5119536894,Creux des neiges,10126.79516976,1,,"geological_formations,natural,interesting_places,caves",node/5119536894
+213,Feature,11635653,Point,"[5.7504511, 45.8542671]",N5567619527,,10159.74803493,1,Q90852480,"historic,burial_places,interesting_places,war_memorials",node/5567619527
+214,Feature,15788890,Point,"[5.6817837, 45.8281555]",Q89555705,pentes du Mont Germont,10191.79585344,5,Q89555705,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+215,Feature,11634169,Point,"[5.542944, 45.9653358]",W490575670,cemetery of Lacoux,10272.92875839,1,Q82245192,"cemeteries,historic,burial_places,interesting_places",way/490575670
+216,Feature,11693578,Point,"[5.5429559, 45.9655266]",W181159582,Église Saint-Étienne de Lacoux,10282.86596005,2,Q27305810,"religion,churches,interesting_places,other_churches",way/181159582
+217,Feature,16022388,Point,"[5.5295625, 45.8921623]",Q89555744,rochers de la montagne d'Arandas et d'Hostiaz,10294.38067835,5,Q89555744,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+218,Feature,6817061,Point,"[5.668642, 46.0103493]",N4890187421,Grotte de Préoux,10284.69603608,1,,"geological_formations,natural,interesting_places,caves",node/4890187421
+219,Feature,16245102,Point,"[5.5662599, 45.8495674]",Q89550083,falaise de La Burbanche,10375.76479696,5,Q89550083,"other,unclassified_objects,interesting_places,historic_object",
+220,Feature,15794893,Point,"[5.6709456, 45.8252144]",Q89550258,tourbière de Vollien,10390.88791801,5,Q89550258,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+221,Feature,14461323,Point,"[5.5865302, 45.8381004]",Q3117210,Grotte des Hoteaux,10443.47938449,2,Q3117210,"interesting_places,natural,geological_formations,caves",
+222,Feature,6816536,Point,"[5.525013, 45.8976784]",N4892662804,Gouffre de l'Epigneux,10482.94405848,1,,"geological_formations,natural,interesting_places,caves",node/4892662804
+223,Feature,11591029,Point,"[5.6536217, 45.8238716]",W42274012,Grand Marais,10485.86908029,5,Q89554071,"aquatic_protected_areas,natural,interesting_places,nature_reserves",way/42274012
+224,Feature,11172259,Point,"[5.5427561, 45.9693451]",N5580074896,,10519.24102112,1,Q90852976,"historic,burial_places,interesting_places,war_memorials",node/5580074896
+225,Feature,15566506,Point,"[5.6389809, 45.8244743]",Q89550988,lacs de Virieu et de Pugieu,10508.35705971,5,Q89550988,"water,interesting_places,natural,other_lakes",
+226,Feature,7910036,Point,"[5.7562308, 45.8534317]",W81094103,Église Saint-Laurent de Béon,10548.23321404,2,Q27305499,"religion,churches,interesting_places,catholic_churches",way/81094103
+227,Feature,15334849,Point,"[5.5877404, 45.8362846]",Q89554075,grotte des Hoteaux et église de Rossillon,10567.90984393,6,Q89554075,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+228,Feature,11801349,Point,"[5.5306764, 45.9547806]",W218244839,Église de l'Assomption de Chaley,10599.33687453,2,Q27305579,"religion,churches,interesting_places,catholic_churches",way/218244839
+229,Feature,16251861,Point,"[5.72686, 45.8363113]",Q90240224,Socle d'un calvaire,10598.47379372,5,Q90240224,"other,unclassified_objects,interesting_places,historic_object",
+230,Feature,11726261,Point,"[5.5302277, 45.9545517]",W218245212,cemetery of Chaley,10621.77802215,2,Q82245128,"cemeteries,historic,burial_places,interesting_places",way/218245212
+231,Feature,11172257,Point,"[5.5300689, 45.9545403]",N7797310357,,10632.57680685,1,Q98150914,"historic,burial_places,interesting_places,war_memorials",node/7797310357
+232,Feature,11541626,Point,"[5.5918093, 45.8338814]",W162234982,Manoir de La Forest,10645.33195511,7,Q2247151,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,castles",way/162234982
+233,Feature,7898086,Point,"[5.5925169, 45.8335762]",W162234978,Église Saint-Pierre de Rossillon,10649.55337691,7,Q3584071,"religion,churches,interesting_places,other_churches",way/162234978
+234,Feature,6308593,Point,"[5.5922356, 45.8334694]",N5567842684,Monument aux morts de Rossillon,10670.14012787,2,Q90853412,"historic,burial_places,interesting_places,war_memorials",node/5567842684
+235,Feature,11909447,Point,"[5.5326729, 45.8765526]",R11972942,Lac des Hôpitaux,10692.7308611,1,,"dry_lakes,water,natural,interesting_places",relation/11972942
+236,Feature,11543146,Point,"[5.7293582, 45.8364792]",W30933848,cemetery of Ceyzérieu,10683.35926143,2,Q82244991,"cemeteries,historic,burial_places,interesting_places",way/30933848
+237,Feature,16022537,Point,"[5.6972942, 45.826355]",Q89551214,marais et lac de Chavoley,10677.99979341,5,Q89551214,"aquatic_protected_areas,water,interesting_places,natural,nature_reserves,other_lakes",
+238,Feature,11757158,Point,"[5.7292361, 45.8363991]",W766790571,,10685.68918306,1,Q60336816,"religion,historic,churches,burial_places,interesting_places,other_burial_places,other_churches",way/766790571
+239,Feature,11543147,Point,"[5.7268138, 45.8353233]",W80944854,Église Saint-André de Ceyzérieu,10690.96975379,2,Q27305569,"religion,churches,interesting_places,catholic_churches",way/80944854
+240,Feature,11635652,Point,"[5.7262683, 45.8350639]",N5567687941,,10694.57648888,1,Q90852568,"historic,burial_places,interesting_places,war_memorials",node/5567687941
+241,Feature,16047586,Point,"[5.7588301, 45.8531609]",Q105724842,Cemetery cross of Béon,10717.08689036,2,Q105724842,"religion,other_temples,interesting_places",
+242,Feature,11635654,Point,"[5.7588549, 45.8531303]",W185600481,cemetery of Béon,10720.8355317,2,Q82245087,"cemeteries,historic,burial_places,interesting_places",way/185600481
+243,Feature,2133638,Point,"[5.5951629, 45.831974]",N6885153725,Vierge,10713.77362485,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/6885153725
+244,Feature,14449026,Point,"[5.7294698, 45.8361282]",Q106086479,Cemetery cross of Ceyzérieu,10720.76775495,2,Q106086479,"religion,other_temples,interesting_places",
+245,Feature,2133888,Point,"[5.5410056, 45.9717865]",N6173296784,Vièrge,10781.11775364,1,,"religion,other_temples,interesting_places",node/6173296784
+246,Feature,14696014,Point,"[5.6869445, 45.8236122]",Q6467973,Lac de Morgnieu,10767.75863877,6,Q6467973,"water,interesting_places,natural,other_lakes",
+247,Feature,15566540,Point,"[5.5630393, 45.8465958]",Q89550986,"lac oriental des Hôpitaux, marais et source du Furans",10788.31132938,6,Q89550986,"water,interesting_places,natural,other_lakes",
+248,Feature,11608995,Point,"[5.6149731, 45.825531]",W251685877,Château de Montville,10800.23295934,1,Q67772569,"fortifications,historic,interesting_places,castles",way/251685877
+249,Feature,11469687,Point,"[5.609479, 45.8265305]",W251685873,,10831.91561465,1,Q27305631,"religion,churches,interesting_places,other_churches",way/251685873
+250,Feature,11617040,Point,"[5.6429186, 45.821167]",W751533133,cemetery of Pugieu,10837.9312356,1,Q82245249,"cemeteries,historic,burial_places,interesting_places",way/751533133
+251,Feature,11563603,Point,"[5.6489868, 45.8207817]",W233711168,Chapelle Saint-Georges,10843.486806,2,Q27306119,"religion,churches,interesting_places,other_churches",way/233711168
+252,Feature,15788210,Point,"[5.7141333, 45.8291054]",Q89550150,prairie de Boussibu,10852.99484244,5,Q89550150,"other,unclassified_objects,interesting_places,historic_object",
+253,Feature,2237473,Point,"[5.7743549, 45.8648415]",N413513802,Point de vue du Fenestrez,10875.66405397,1,,"view_points,other,interesting_places",node/413513802
+254,Feature,2237384,Point,"[5.6488333, 45.8206596]",W233711169,Lavoir,10857.75171791,1,,"historic,monuments_and_memorials,interesting_places,monuments",way/233711169
+255,Feature,11785535,Point,"[5.6092095, 45.8262558]",N2755867583,,10867.5689592,1,Q90852622,"historic,burial_places,interesting_places,war_memorials",node/2755867583
+256,Feature,11693001,Point,"[5.6478891, 45.8203621]",N5907850525,,10895.20929585,1,Q90853361,"historic,burial_places,interesting_places,war_memorials",node/5907850525
+257,Feature,2133643,Point,"[5.5542002, 45.8504944]",N2017281055,La Croix,10960.92525961,1,,"view_points,other,interesting_places",node/2017281055
+258,Feature,11726249,Point,"[5.5608573, 45.8456841]",N2017913763,,10977.57325303,1,Q90865522,"historic,burial_places,interesting_places,war_memorials",node/2017913763
+259,Feature,11448758,Point,"[5.5610638, 45.8454437]",W191192097,Église de l'Annonciation de La Burbanche,10986.16987119,2,Q27305847,"religion,churches,interesting_places,catholic_churches",way/191192097
+260,Feature,2237388,Point,"[5.6909513, 45.8220787]",N5141593924,Croix en Pierre,11004.88665332,1,,"other,unclassified_objects,interesting_places,historic_object",node/5141593924
+261,Feature,6848351,Point,"[5.6216764, 45.8220482]",N1301782652,Cascade des Dards,11029.70535748,1,,"water,natural,interesting_places,waterfalls",node/1301782652
+262,Feature,11947903,Point,"[5.7173414, 45.8282928]",W238164474,Voie Romaine,11038.95714767,1,,"cultural,urban_environment,interesting_places,squares",way/238164474
+263,Feature,15338285,Point,"[5.6729274, 45.8194771]",Q89550154,prairies de Grand Pâquier et Bourbouillon,11041.59357575,5,Q89550154,"other,unclassified_objects,interesting_places,historic_object",
+264,Feature,2133887,Point,"[5.5394993, 45.9749489]",N6173296783,Grange du RUT,11074.78699107,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/6173296783
+265,Feature,11323997,Point,"[5.6741304, 45.8192902]",N5907846625,,11073.16203967,1,Q90852747,"historic,burial_places,interesting_places,war_memorials",node/5907846625
+266,Feature,15110182,Point,"[5.60396, 45.8250999]",Q89602162,parc du Château des Éclaz,11132.43900637,6,Q89602162,"gardens_and_parks,cultural,urban_environment,interesting_places",
+267,Feature,11172244,Point,"[5.6039414, 45.8248978]",N2474056296,Château des Éclaz,11154.03784007,7,Q2971587,"fortifications,historic,interesting_places,castles",node/2474056296
+268,Feature,16251574,Point,"[5.6500912, 45.8178635]",Q89550976,lac des Brosses,11163.15000099,5,Q89550976,"water,interesting_places,natural,other_lakes",
+269,Feature,15362305,Point,"[5.5591698, 45.8442383]",Q105413468,Cemetery cross of La Burbanche,11184.3741402,2,Q105413468,"religion,other_temples,interesting_places",
+270,Feature,15799422,Point,"[5.5592299, 45.844059]",Q98152951,Chapelle du cimetière de La Burbanche,11195.93838991,2,Q98152951,"religion,churches,interesting_places,other_churches",
+271,Feature,11726248,Point,"[5.5591741, 45.8440857]",W191192100,,11196.77975912,1,Q82243401,"cemeteries,historic,burial_places,interesting_places",way/191192100
+272,Feature,15107283,Point,"[5.7960634, 45.8900375]",Q89548977,pelouses sèches de Champriond,11243.83741376,5,Q89548977,"other,unclassified_objects,interesting_places,historic_object",
+273,Feature,14937003,Point,"[5.5124998, 45.9000015]",Q16303556,cluse des Hôpitaux,11383.70659243,3,Q16303556,"canyons,interesting_places,natural,geological_formations",
+274,Feature,14652096,Point,"[5.5155258, 45.9457092]",Q89549058,pelouses sèches de la partie méridionale du plateau de Jargoy,11382.45321441,5,Q89549058,"other,unclassified_objects,interesting_places,historic_object",
+275,Feature,11543142,Point,"[5.679913, 45.81707]",W529242778,cemetery of Cuzieu,11380.19086812,1,Q82243701,"cemeteries,historic,burial_places,interesting_places",way/529242778
+276,Feature,11543143,Point,"[5.681881, 45.8169479]",W258547677,Église Saint-Oyen de Cuzieu,11418.47455231,2,Q27305718,"religion,churches,interesting_places,catholic_churches",way/258547677
+277,Feature,11751843,Point,"[5.5092278, 45.9194984]",W188389372,Église Saint-André de Tenay,11455.64838079,2,Q27306367,"religion,churches,interesting_places,other_churches",way/188389372
+278,Feature,11541641,Point,"[5.5092058, 45.9178772]",N5580159643,,11456.62072687,1,Q90853699,"historic,burial_places,interesting_places,war_memorials",node/5580159643
+279,Feature,11634165,Point,"[5.5091925, 45.9219131]",W98162688,cemetery of Tenay,11464.68443601,1,Q80797604,"cemeteries,historic,burial_places,interesting_places",way/98162688
+280,Feature,15108010,Point,"[5.6636162, 45.8153343]",Q89550094,falaise de Pugieu,11443.69286373,5,Q89550094,"other,unclassified_objects,interesting_places,historic_object",
+281,Feature,6816522,Point,"[5.5544534, 45.8429146]",N6021690213,Grotte de la Falconette (entrée basse),11542.26714129,1,,"geological_formations,natural,interesting_places,caves",node/6021690213
+282,Feature,6816521,Point,"[5.5543861, 45.8427773]",N4890366617,Grotte de la Falconette (entrée supérieure),11556.8599077,1,,"geological_formations,natural,interesting_places,caves",node/4890366617
+283,Feature,2237735,Point,"[5.7667356, 45.9885902]",N7545499378,L'arche de l'Écorche-Bœuf,11565.90980071,1,,"view_points,other,interesting_places",node/7545499378
+284,Feature,6816523,Point,"[5.5435109, 45.8503876]",N4892635967,Grotte Sous les Sangles,11586.00231763,1,,"geological_formations,natural,interesting_places,caves",node/4892635967
+285,Feature,14652051,Point,"[5.540422, 45.8529625]",Q89553443,bois et rochers de Fays,11587.86601474,5,Q89553443,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+286,Feature,15794945,Point,"[5.5141153, 45.9517517]",Q89553467,"col d'Évosges, falaises d'Argis et gorges de l'Albarine",11684.04366975,6,Q89553467,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+287,Feature,6163424,Point,"[5.744534, 45.8325996]",W80945331,Maison du Marais et Réserve Naturelle,11696.1284582,1,,"cultural,museums,interesting_places,other_museums",way/80945331
+288,Feature,14651985,Point,"[5.7013927, 45.8172455]",Q89550149,tourbière de Fora Est,11739.39444735,5,Q89550149,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+289,Feature,7168506,Point,"[5.8086724, 45.9119339]",W504375719,Fontaine d'Anglefort,11796.42337465,1,,"fountains,cultural,urban_environment,interesting_places",way/504375719
+290,Feature,15566561,Point,"[5.7834902, 45.977108]",Q89548776,pelouse et forêt du gollet du Loup,11800.79694423,5,Q89548776,"other,unclassified_objects,interesting_places,historic_object",
+291,Feature,11727777,Point,"[5.8091826, 45.9138489]",N5906619803,,11825.15434802,1,Q90852409,"historic,burial_places,interesting_places,war_memorials",node/5906619803
+292,Feature,15794943,Point,"[5.6218953, 45.8147507]",Q89553419,ancienne carrière des Genandes et prairie du Coin,11813.31060399,5,Q89553419,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+293,Feature,11498419,Point,"[5.7557511, 45.8368492]",R1046953,Marais de Lavours National Nature Reserve,11859.0685992,3,Q3457470,"natural,interesting_places,nature_reserves,nature_reserves_others",relation/1046953
+294,Feature,11584065,Point,"[5.5971828, 46.0165329]",W181326697,Église Saint-Victor-et-Saint-Ours de Champdor,11870.69030541,2,Q30088008,"religion,churches,interesting_places,catholic_churches",way/181326697
+295,Feature,11358722,Point,"[5.7955532, 45.8721428]",N2629615911,Château des Sarrasins of Châtel,11916.74730654,2,Q78660735,"view_points,other,fortifications,historic,interesting_places,castles",node/2629615911
+296,Feature,6192995,Point,"[5.7944489, 45.8704643]",N2629615912,Châtel-le-Haut,11921.42803879,1,,"architecture,historic_architecture,historical_places,historic,interesting_places,destroyed_objects,historic_settlements",node/2629615912
+297,Feature,6816520,Point,"[5.5511928, 45.8400345]",N6021695845,Gouffre de la Conche,11948.88092668,1,,"geological_formations,natural,interesting_places,caves",node/6021695845
+298,Feature,15107321,Point,"[5.8027115, 45.9534149]",Q89549003,pelouses sèches de Corbonod,11968.00724133,5,Q89549003,"other,unclassified_objects,interesting_places,historic_object",
+299,Feature,11448766,Point,"[5.5973077, 46.017292]",N5893769186,,11944.35935576,1,Q90852582,"historic,burial_places,interesting_places,war_memorials",node/5893769186
+300,Feature,4943110,Point,"[5.6309958, 45.8121719]",N1316132219,Orchidée,11953.35942192,1,,"natural,interesting_places,nature_reserves,other_nature_conservation_areas",node/1316132219
+301,Feature,16251631,Point,"[5.5642424, 45.8319931]",Q89548830,pelouse sèche de la Combe Noire,11979.57830977,5,Q89548830,"other,unclassified_objects,interesting_places,historic_object",
+302,Feature,5739338,Point,"[5.77912, 45.8518639]",W81068329,Chapelle,12015.21476882,1,,"religion,other_temples,interesting_places",way/81068329
+303,Feature,7206347,Point,"[5.7834229, 45.8558578]",N7416925978,"La Vigne, la Pierre, le Bugey",12019.35711719,1,,"cultural,urban_environment,interesting_places,sculptures",node/7416925978
+304,Feature,16251596,Point,"[5.805449, 45.8868599]",Q89555708,pentes et falaises de Champriond,12042.75413623,5,Q89555708,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+305,Feature,11516668,Point,"[5.7771664, 45.8498878]",W81066656,Château de Montvéran,12033.34618666,7,Q2970061,"fortifications,historic,interesting_places,castles",way/81066656
+306,Feature,15110145,Point,"[5.8087802, 45.9423676]",Q89548859,pelouse sèche de Rhémoz,12083.8303156,5,Q89548859,"other,unclassified_objects,interesting_places,historic_object",
+307,Feature,11543160,Point,"[5.8127146, 45.9132309]",N4386691560,,12101.93398265,6,Q2968076,"fortifications,historic,interesting_places,castles",node/4386691560
+308,Feature,16251670,Point,"[5.8127418, 45.9131584]",Q89602132,parc du Château de Mieugy,12104.41258851,5,Q89602132,"gardens_and_parks,cultural,urban_environment,interesting_places",
+309,Feature,11938693,Point,"[5.7127242, 45.8164139]",W30927502,Voie Romaine,12114.18151546,1,,"cultural,urban_environment,interesting_places,squares",way/30927502
+310,Feature,11584154,Point,"[5.8135262, 45.9126205]",W218173475,Église Saint-Martin d'Anglefort,12168.18294035,2,Q27305450,"religion,churches,interesting_places,catholic_churches",way/218173475
+311,Feature,6816519,Point,"[5.5476995, 45.8397751]",N6021684495,Gouffre de la Rochance,12157.37246616,1,,"geological_formations,natural,interesting_places,caves",node/6021684495
+312,Feature,15338276,Point,"[5.7093425, 45.8151855]",Q89545257,étang de la Manche,12151.28301969,5,Q89545257,"water,interesting_places,natural,other_lakes",
+313,Feature,14652104,Point,"[5.6938243, 45.8118401]",Q89551171,marais du Bois de Terrieu,12163.11879043,5,Q89551171,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+314,Feature,2237474,Point,"[5.7916875, 45.8614159]",N2623127609,Point de vue sur le Rhône et le Lac du Bourget,12218.38494068,1,,"view_points,other,interesting_places",node/2623127609
+315,Feature,11698642,Point,"[5.7805629, 45.8500671]",W81068019,Église Saint-Martin de Culoz,12226.86856936,2,Q27305708,"religion,churches,interesting_places,catholic_churches",way/81068019
+316,Feature,7206346,Point,"[5.7808933, 45.8502007]",N7416983993,Le Cycle de la vie,12237.83043045,1,,"cultural,urban_environment,interesting_places,sculptures",node/7416983993
+317,Feature,11450383,Point,"[5.7485161, 46.0082016]",N6721176517,Monument des Maquis de Richemond,12270.17260063,2,Q90853853,"historic,burial_places,interesting_places,war_memorials",node/6721176517
+318,Feature,2237419,Point,"[5.7432637, 45.825367]",N348045836,Moulin (ruines),12304.88111044,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",node/348045836
+319,Feature,2237467,Point,"[5.7854519, 45.8529472]",N7416991388,L'heure du dîner sonna - on l'attendit ils pouvaient se mettre à table le déjeuner fut tranquille,12335.8669331,1,,"cultural,urban_environment,interesting_places,sculptures",node/7416991388
+320,Feature,16240582,Point,"[5.5110874, 45.8732567]",Q89549062,pelouses sèches de la Rapette,12368.15933371,5,Q89549062,"other,unclassified_objects,interesting_places,historic_object",
+321,Feature,11635656,Point,"[5.7879252, 45.8545227]",W137712791,,12390.80154393,1,Q82243693,"cemeteries,historic,burial_places,interesting_places",way/137712791
+322,Feature,14449084,Point,"[5.7880802, 45.8543892]",Q106097791,Cemetery cross of Culoz,12409.05651168,2,Q106097791,"religion,other_temples,interesting_places",
+323,Feature,2237753,Point,"[5.8172455, 45.922699]",W504381512,Vierge d'Anglefort,12449.98129545,1,,"historic,monuments_and_memorials,interesting_places,monuments",way/504381512
+324,Feature,11635655,Point,"[5.7828717, 45.8480453]",N5906561996,,12506.84712384,1,Q90852736,"historic,burial_places,interesting_places,war_memorials",node/5906561996
+325,Feature,11264575,Point,"[5.6231208, 45.8082962]",W114394622,cemetery of Contrevoz,12492.18895198,2,Q78304543,"cemeteries,historic,burial_places,interesting_places",way/114394622
+326,Feature,11431238,Point,"[5.778749, 45.8432388]",W30972111,Culoz,12605.21400021,7,Q2444752,"railway_stations,industrial_facilities,interesting_places",way/30972111
+327,Feature,11541627,Point,"[5.5397477, 45.8396568]",W257927834,Église Saint-Antoine d'Ordonnaz,12604.67903481,2,Q27306038,"religion,churches,interesting_places,catholic_churches",way/257927834
+328,Feature,11510742,Point,"[5.665843, 46.0312805]",W236491051,Église Saint-Étienne du Petit-Abergement,12589.91984154,7,Q3584862,"religion,churches,interesting_places,other_churches",way/236491051
+329,Feature,11358721,Point,"[5.7787933, 45.8429337]",N5071073125,Culoz,12630.12046511,7,Q2444752,"railway_stations,industrial_facilities,interesting_places",node/5071073125
+330,Feature,11801439,Point,"[5.6640759, 46.0319061]",N5893771227,,12652.61489976,1,Q90853007,"historic,burial_places,interesting_places,war_memorials",node/5893771227
+331,Feature,7045719,Point,"[5.7228303, 45.8139381]",W209748582,Musée des Outils de la Pierre,12668.09556772,1,,"cultural,museums,interesting_places,other_museums",way/209748582
+332,Feature,11340922,Point,"[5.6276336, 45.8060493]",N5907849877,,12669.10496329,1,Q90852671,"historic,burial_places,interesting_places,war_memorials",node/5907849877
+333,Feature,7045722,Point,"[5.7233276, 45.8140068]",W209748669,Musée des traditions vigneronnes,12676.74972042,3,Q3330290,"cultural,museums,interesting_places,other_museums",way/209748669
+334,Feature,11432419,Point,"[5.62749, 45.8056488]",W115479789,Église Saint-Romain de Contrevoz,12714.78942676,2,Q27305665,"religion,churches,interesting_places,catholic_churches",way/115479789
+335,Feature,7206344,Point,"[5.7835002, 45.8449554]",N7416974001,Un pas et demain sera aujourd'hui,12761.56006603,1,,"cultural,urban_environment,interesting_places,sculptures",node/7416974001
+336,Feature,11634152,Point,"[5.5365334, 45.8399315]",W218137508,,12765.07118819,1,Q82244341,"cemeteries,historic,burial_places,interesting_places",way/218137508
+337,Feature,15327504,Point,"[5.7941847, 45.9825172]",Q89549808,pelouses sèches de Silans,12823.77767886,5,Q89549808,"other,unclassified_objects,interesting_places,historic_object",
+338,Feature,15605059,Point,"[5.5230598, 45.9860992]",Q3541265,Tré Pellay,12830.97189995,3,Q3541265,"mountain_peaks,interesting_places,natural,geological_formations",
+339,Feature,11358715,Point,"[5.7245793, 45.8124275]",W209748718,Saint-Oyen of Vongnes,12876.65011961,7,Q3583455,"religion,churches,interesting_places,catholic_churches",way/209748718
+340,Feature,11264589,Point,"[5.4919901, 45.9341125]",W188457636,,12912.24550446,1,Q82245044,"cemeteries,historic,burial_places,interesting_places",way/188457636
+341,Feature,11358716,Point,"[5.7245388, 45.8123589]",W209748755,,12882.2308856,1,Q82244933,"cemeteries,historic,burial_places,interesting_places",way/209748755
+342,Feature,11358717,Point,"[5.7243991, 45.8122978]",N5567721462,,12884.14038816,1,Q90853834,"historic,burial_places,interesting_places,war_memorials",node/5567721462
+343,Feature,16047082,Point,"[5.7245402, 45.8123016]",Q105483090,Cemetery cross of Vongnes,12888.29416601,2,Q105483090,"religion,other_temples,interesting_places",
+344,Feature,11264577,Point,"[5.5382729, 45.8368378]",N4994143308,,12905.28822261,1,Q90853216,"historic,burial_places,interesting_places,war_memorials",node/4994143308
+345,Feature,9974514,Point,"[5.8236241, 45.9146118]",W504375716,Ancienne gare d'Anglefort,12941.69861427,1,,"architecture,historic_architecture,interesting_places,destroyed_objects",way/504375716
+346,Feature,11605784,Point,"[5.6806383, 45.8031349]",W224546719,Église Saint-Maurice de Bons,12920.06530313,2,Q27305626,"religion,churches,interesting_places,catholic_churches",way/224546719
+347,Feature,11339659,Point,"[5.4913721, 45.9343758]",N5580013736,,12963.71296823,1,Q90852427,"historic,burial_places,interesting_places,war_memorials",node/5580013736
+348,Feature,11605458,Point,"[5.4912438, 45.934536]",W188460429,Église Saint-Maurice d'Argis,12975.97560866,2,Q27305466,"religion,churches,interesting_places,catholic_churches",way/188460429
+349,Feature,11727756,Point,"[5.6819019, 45.8029785]",N5567689765,Monument aux morts de Chazey-Bons,12951.50723191,2,Q90852618,"historic,burial_places,interesting_places,war_memorials",node/5567689765
+350,Feature,14651980,Point,"[5.4893003, 45.9169922]",Q89554115,mont Mener,13001.58261025,5,Q89554115,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+351,Feature,2237468,Point,"[5.7943654, 45.8515282]",N7416934260,Stèle militaire,12991.43980163,1,,"cultural,urban_environment,interesting_places,sculptures",node/7416934260
+352,Feature,11785539,Point,"[5.6747389, 46.0341492]",N5893770529,,12963.72875875,1,Q90852997,"historic,burial_places,interesting_places,war_memorials",node/5893770529
+353,Feature,7928075,Point,"[5.6749921, 46.0342712]",W151484750,Église Saint-Armand du Grand-Abergement,12979.29988629,2,Q42433246,"religion,churches,interesting_places,catholic_churches",way/151484750
+354,Feature,11635647,Point,"[5.6286912, 45.8030014]",N7046947911,Boulangerie Bardoulet,12988.53053422,2,Q79951788,"architecture,historic_architecture,interesting_places,shops,bakeries,conveniences,tourist_facilities,other_buildings_and_structures",node/7046947911
+355,Feature,15566247,Point,"[5.6049414, 45.806778]",Q89548857,pelouse sèche de Préveyzieu,13023.04877235,5,Q89548857,"other,unclassified_objects,interesting_places,historic_object",
+356,Feature,11202849,Point,"[5.6668639, 45.8008347]",W109698879,Lac du Bret,13066.11789179,5,Q89550273,"aquatic_protected_areas,water,natural,interesting_places,nature_reserves,other_lakes",way/109698879
+357,Feature,11541642,Point,"[5.498672, 45.9604568]",N5580007346,,13138.02808553,1,Q90852796,"historic,burial_places,interesting_places,war_memorials",node/5580007346
+358,Feature,16251644,Point,"[5.7420187, 46.0203285]",Q89554902,ensemble formé par le plateau de Retord et la chaîne du Grand Colombier,13131.70022006,5,Q89554902,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+359,Feature,15338264,Point,"[5.8180184, 45.8800011]",Q89553776,cours du Rhône majeur de Seyssel à l'île des Brotteaux,13205.19372862,5,Q89553776,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+360,Feature,11635666,Point,"[5.8098593, 45.9706802]",N5580543781,,13219.24782417,1,Q90852678,"historic,burial_places,interesting_places,war_memorials",node/5580543781
+361,Feature,6516819,Point,"[5.6928267, 45.8022118]",W224547635,Maison Brillat,13189.08397581,7,Q3278643,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",way/224547635
+362,Feature,11399811,Point,"[5.7521172, 45.8197937]",R6664634,Marais de Lavours,13201.31035288,6,Q34736872,"aquatic_protected_areas,natural,interesting_places,nature_reserves",relation/6664634
+363,Feature,11634154,Point,"[5.613905, 45.8032455]",N7070246731,Chapelle Sainte-Anne,13204.33611315,2,Q78843712,"religion,churches,interesting_places,other_churches",node/7070246731
+364,Feature,11790083,Point,"[5.4958096, 45.9587631]",W154550833,Église Saint-Martin d'Évosges,13280.62063746,2,Q27305750,"religion,churches,interesting_places,catholic_churches",way/154550833
+365,Feature,11264590,Point,"[5.4957252, 45.9586105]",N5580025179,,13281.02258896,1,Q90852799,"historic,burial_places,interesting_places,war_memorials",node/5580025179
+366,Feature,11801348,Point,"[5.4956412, 45.95858]",W218137513,,13286.04246531,1,Q56218107,"cemeteries,historic,burial_places,interesting_places",way/218137513
+367,Feature,11634153,Point,"[5.6122241, 45.8030243]",W115479990,Chapelle Sainte-Anne,13261.38362611,2,Q78843712,"religion,churches,interesting_places,other_churches",way/115479990
+368,Feature,14652059,Point,"[5.5256643, 45.8413849]",Q89548791,pelouse sèche d'Ordonnaz,13290.45472377,5,Q89548791,"other,unclassified_objects,interesting_places,historic_object",
+369,Feature,11448763,Point,"[5.4876881, 45.8964195]",N5579965323,,13349.41234158,1,Q90852419,"historic,burial_places,interesting_places,war_memorials",node/5579965323
+370,Feature,11172255,Point,"[5.487504, 45.8964539]",W188494973,Église Saint-Pierre d'Arandas,13362.81921715,2,Q27305462,"religion,churches,interesting_places,catholic_churches",way/188494973
+371,Feature,11173671,Point,"[5.6872625, 45.7998199]",W318975878,cemetery of Cressieu,13366.0969942,1,Q82245162,"cemeteries,historic,burial_places,interesting_places",way/318975878
+372,Feature,11654714,Point,"[5.6934214, 45.800457]",W224547668,Chapelle de Cressieu,13389.22544283,2,Q78124468,"religion,churches,interesting_places,other_churches",way/224547668
+373,Feature,11955490,Point,"[5.7103219, 45.803524]",W262975147,Voie Romaine,13403.09867091,1,,"cultural,urban_environment,interesting_places,squares",way/262975147
+374,Feature,14652114,Point,"[5.5794315, 45.8102951]",Q89554113,mollard de Don,13415.53590027,5,Q89554113,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+375,Feature,11357254,Point,"[5.5801768, 45.8098755]",N26863765,Mollard de Don,13431.65137084,3,Q3319591,"mountain_peaks,geological_formations,natural,interesting_places",node/26863765
+376,Feature,15787359,Point,"[5.710897, 45.8026619]",Q89550212,prairies des Cochues et de Poirin,13507.9069525,5,Q89550212,"other,unclassified_objects,interesting_places,historic_object",
+377,Feature,11541639,Point,"[5.4847112, 45.8976707]",W218137509,,13552.47157833,1,Q82243203,"cemeteries,historic,burial_places,interesting_places",way/218137509
+378,Feature,16251618,Point,"[5.5432172, 45.825222]",Q89549040,pelouses sèches de la Combe d'Innimond,13588.75960704,5,Q89549040,"other,unclassified_objects,interesting_places,historic_object",
+379,Feature,11727758,Point,"[5.7308455, 45.8067741]",N5912236331,,13650.10916806,1,Q90852842,"historic,burial_places,interesting_places,war_memorials",node/5912236331
+380,Feature,11173674,Point,"[5.7309179, 45.8066711]",W273678199,,13662.89280666,1,Q82243789,"cemeteries,historic,burial_places,interesting_places",way/273678199
+381,Feature,11450368,Point,"[5.7348819, 45.8079681]",W209749028,Église Saint-Maurice de Flaxieu,13665.81977765,7,Q3583103,"religion,churches,interesting_places,catholic_churches",way/209749028
+382,Feature,11608952,Point,"[5.7325425, 45.8071594]",W209749086,Sainte-Fontaine,13667.63900557,7,Q3464260,"fountains,historic,monuments_and_memorials,urban_environment,cultural,interesting_places,sculptures,monuments",way/209749086
+383,Feature,2237739,Point,"[5.7941384, 45.9963799]",N6071686379,Cascade de la Dorche,13738.8318235,1,,"water,natural,interesting_places,waterfalls",node/6071686379
+384,Feature,14689882,Point,"[5.8340702, 45.9278984]",Q3280188,maison forte de Motz,13786.71389566,2,Q3280188,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,other_fortifications",
+385,Feature,11450385,Point,"[5.7948308, 45.9966393]",N4389590193,Château de Dorches,13798.60119626,7,Q2969147,"architecture,historic_architecture,fortifications,historic,interesting_places,destroyed_objects,castles",node/4389590193
+386,Feature,11415419,Point,"[5.6549354, 45.7942467]",N5567574546,,13776.19122544,1,Q90852407,"historic,burial_places,interesting_places,war_memorials",node/5567574546
+387,Feature,11221561,Point,"[5.6957636, 45.7968674]",R5660154,Lac et Marais de Cressieu,13818.1969501,5,Q89551001,"aquatic_protected_areas,natural,interesting_places,nature_reserves",relation/5660154
+388,Feature,11173690,Point,"[5.7850423, 46.005085]",N5580484728,,13855.86530382,1,Q90852586,"historic,burial_places,interesting_places,war_memorials",node/5580484728
+389,Feature,15327618,Point,"[5.5874977, 46.0330772]",Q89549828,pelouses sèches de Tré-Maupertuis,13856.32704785,5,Q89549828,"other,unclassified_objects,interesting_places,historic_object",
+390,Feature,14881106,Point,"[5.5319762, 45.8288383]",Q89548843,pelouse sèche de Monnet,13880.52573471,5,Q89548843,"other,unclassified_objects,interesting_places,historic_object",
+391,Feature,7928073,Point,"[5.6537671, 45.7932854]",W115827582,Église Saint-Théodule d'Andert-et-Condon,13884.67725086,6,Q27305448,"religion,churches,interesting_places,catholic_churches",way/115827582
+392,Feature,11420157,Point,"[5.8217015, 45.9681168]",W205852219,Église Saint-Maurice de Corbonod,13933.38821195,2,Q27305667,"religion,churches,interesting_places,catholic_churches",way/205852219
+393,Feature,11236255,Point,"[5.7863598, 46.0051575]",W53840575,Église Saint-Victor de Chanay,13934.82940102,2,Q27305592,"religion,churches,interesting_places,catholic_churches",way/53840575
+394,Feature,14881104,Point,"[5.5512838, 45.8167839]",Q89548821,pelouse sèche de Daillet,13937.66962262,5,Q89548821,"other,unclassified_objects,interesting_places,historic_object",
+395,Feature,11173691,Point,"[5.7858315, 46.0059433]",N5580488874,,13966.41688039,1,Q90852588,"historic,burial_places,interesting_places,war_memorials",node/5580488874
+396,Feature,11239690,Point,"[5.7860656, 46.0058212]",W53840577,Château de Quinsonnas,13969.75372099,2,Q67772326,"fortifications,historic,interesting_places,castles",way/53840577
+397,Feature,14880847,Point,"[5.5392799, 45.8229904]",Q89548915,pelouse sèche du Tremollard Riond,13976.10466885,5,Q89548915,"other,unclassified_objects,interesting_places,historic_object",
+398,Feature,14642326,Point,"[5.5138054, 45.8414116]",Q89548905,pelouse sèche du Mollard Miot,14006.89784606,5,Q89548905,"other,unclassified_objects,interesting_places,historic_object",
+399,Feature,6848558,Point,"[5.8196874, 45.9738121]",N5590610279,Cascade de Peysieux,14056.30753375,1,,"water,natural,interesting_places,waterfalls",node/5590610279
+400,Feature,15850022,Point,"[5.8373299, 45.9311981]",Q15940152,château de Châteaufort,14071.3838502,2,Q15940152,"fortifications,historic,interesting_places,castles",
+401,Feature,11294765,Point,"[5.4788556, 45.9462357]",N7101532961,CAMILLE RACHEL,14155.17760359,2,Q66809546,"historic,burial_places,interesting_places,war_memorials",node/7101532961
+402,Feature,11514030,Point,"[5.8310499, 45.9577293]",W63192758,Église Saint-François-de-Sales de Seyssel,14203.63035407,2,Q27306326,"religion,churches,interesting_places,catholic_churches",way/63192758
+403,Feature,11727778,Point,"[5.8319159, 45.9562607]",N5581313677,,14218.27099917,1,Q90853673,"historic,burial_places,interesting_places,war_memorials",node/5581313677
+404,Feature,14651787,Point,"[5.6278605, 45.7922211]",Q89549095,pelouses sèches de Montbreyzieu,14180.8090934,5,Q89549095,"other,unclassified_objects,interesting_places,historic_object",
+405,Feature,11357266,Point,"[5.5248718, 46.0068169]",N6164713182,,14204.54667011,2,Q2970440,"architecture,historic_architecture,fortifications,historic,interesting_places,destroyed_objects,castles",node/6164713182
+406,Feature,11307795,Point,"[5.6096649, 45.7942276]",W114394615,Marais de la Source Cocon,14257.30375261,5,Q89551062,"aquatic_protected_areas,natural,interesting_places,nature_reserves",way/114394615
+407,Feature,11592337,Point,"[5.8316941, 45.9591942]",N3215575817,Former town hall of Seyssel,14302.02374039,3,Q3330408,"cultural,museums,interesting_places,other_museums",node/3215575817
+408,Feature,15820949,Point,"[5.7242899, 45.7987404]",Q106097798,Cemetery cross of Marignieu,14270.88635,2,Q106097798,"religion,other_temples,interesting_places",
+409,Feature,11617037,Point,"[5.6597505, 45.7898483]",W481867926,Marais d'Andert,14266.1892837,5,Q89553472,"aquatic_protected_areas,natural,interesting_places,nature_reserves",way/481867926
+410,Feature,11977817,Point,"[5.8346233, 45.9528008]",W440817681,Pont de Seyssel,14311.12677103,3,Q3397146,"bridges,architecture,interesting_places,other_bridges",way/440817681
+411,Feature,11543144,Point,"[5.7241554, 45.7986336]",W273678200,,14278.09026992,1,Q82244132,"cemeteries,historic,burial_places,interesting_places",way/273678200
+412,Feature,11450384,Point,"[5.7866092, 46.0096512]",W53840573,cemetery of Chanay,14299.21816233,1,Q82243468,"cemeteries,historic,burial_places,interesting_places",way/53840573
+413,Feature,11606020,Point,"[5.7222466, 45.7978325]",W263066132,Église Saint-Pierre de Marignieu,14307.66843887,2,Q27305932,"religion,churches,interesting_places,catholic_churches",way/263066132
+414,Feature,15110133,Point,"[5.4721231, 45.9264641]",Q89548833,pelouse sèche de la Montagne de Suerne,14361.77797332,5,Q89548833,"other,unclassified_objects,interesting_places,historic_object",
+415,Feature,15376211,Point,"[5.8327999, 45.9585991]",Q3397305,Vieux pont suspendu de Seyssel,14362.64723956,3,Q3397305,"architecture,bridges,interesting_places,suspension_bridges",
+416,Feature,2133911,Point,"[5.5739365, 46.0334663]",N5893768526,,14335.49241626,1,Q90852683,"historic,burial_places,interesting_places,war_memorials",node/5893768526
+417,Feature,16016001,Point,"[5.6887598, 45.7912025]",Q89554890,bassin de Belley,14329.50901641,5,Q89554890,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+418,Feature,11634167,Point,"[5.4839797, 45.9650726]",N3246298706,Croix d'Évosges,14385.02611015,2,Q65621610,"religion,other_temples,interesting_places",node/3246298706
+419,Feature,11635651,Point,"[5.7194018, 45.7966232]",N7415154083,,14357.24541907,1,Q90910556,"historic,burial_places,interesting_places,war_memorials",node/7415154083
+420,Feature,15108092,Point,"[5.5814323, 45.799984]",Q89555734,prés Chemont,14385.36784575,5,Q89555734,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+421,Feature,11328630,Point,"[5.8337159, 45.9583321]",W53841849,Église Saint-Blaise de Seyssel,14420.85260806,2,Q38468975,"religion,churches,interesting_places,catholic_churches",way/53841849
+422,Feature,14732231,Point,"[5.8337002, 45.9584007]",Q22968668,Croix de l'église de Seyssel,14422.0745478,6,Q22968668,"historic,archaeology,interesting_places,other_archaeological_sites",
+423,Feature,6816518,Point,"[5.5565104, 45.8092651]",N4890307417,Trou des Mongols,14398.51562321,1,,"geological_formations,natural,interesting_places,caves",node/4890307417
+424,Feature,15108022,Point,"[5.5157475, 45.833622]",Q89549861,pelouses sèches des Combettes,14436.29844183,5,Q89549861,"other,unclassified_objects,interesting_places,historic_object",
+425,Feature,9799223,Point,"[5.4911394, 45.8589935]",N1231527507,Calvaire de Portes,14449.68909576,1,,"other,unclassified_objects,interesting_places,historic_object",node/1231527507
+426,Feature,11281891,Point,"[5.6095943, 45.7926674]",N1298252549,Source Cocon,14426.59145771,5,Q89551062,"aquatic_protected_areas,natural_springs,natural,interesting_places,nature_reserves,springs_others",node/1298252549
+427,Feature,11972720,Point,"[5.7961569, 45.8316574]",W224383823,Ligne de la Maurienne,14470.90328523,3,Q3556568,"bridges,architecture,interesting_places,other_bridges",way/224383823
+428,Feature,2133629,Point,"[5.491611, 45.8573151]",N830996687,Calvaire de Porte,14503.2947088,1,,"view_points,other,interesting_places",node/830996687
+429,Feature,2133631,Point,"[5.4915223, 45.8573418]",N4296013908,Calvaire de Porte,14507.98812566,1,,"other,unclassified_objects,interesting_places,historic_object",node/4296013908
+430,Feature,11541640,Point,"[5.4733891, 45.8919792]",N5912704489,,14533.31708171,1,Q90852652,"historic,burial_places,interesting_places,war_memorials",node/5912704489
+431,Feature,15110149,Point,"[5.6046448, 46.0433998]",Q89551025,marais de la Batonnière,14494.54488259,5,Q89551025,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+432,Feature,11247247,Point,"[5.4733243, 45.8919411]",W199153806,,14539.11104936,1,Q82243573,"cemeteries,historic,burial_places,interesting_places",way/199153806
+433,Feature,9968668,Point,"[5.4731641, 45.8921165]",W199153808,Église Saint-Anthelme de Conand,14547.35528377,2,Q27305654,"religion,churches,interesting_places,catholic_churches",way/199153808
+434,Feature,11541649,Point,"[5.5751963, 46.0360298]",N6174825389,Corcelles,14548.24164659,2,Q82243598,"cemeteries,historic,burial_places,interesting_places",node/6174825389
+435,Feature,11189648,Point,"[5.7673001, 45.8121796]",N669856331,Molard de Lavours,14571.58184036,2,Q106485994,"mountain_peaks,geological_formations,natural,interesting_places",node/669856331
+436,Feature,16251478,Point,"[5.7227993, 45.7954674]",Q89550209,prairies de Marignieu-Chatonod,14568.79295754,5,Q89550209,"other,unclassified_objects,interesting_places,historic_object",
+437,Feature,11225523,Point,"[5.8361034, 45.9588585]",W61940640,Le Condate,14615.01881637,1,Q61859707,"cultural,cinemas,theatres_and_entertainments,interesting_places",way/61940640
+438,Feature,2133906,Point,"[5.5762024, 46.0366974]",N6174825387,Bac de la maison Guillermet,14581.13389798,1,,"fountains,cultural,urban_environment,interesting_places",node/6174825387
+439,Feature,11634166,Point,"[5.4781666, 45.9599838]",W663000385,cemetery of Oncieu,14617.22984119,1,Q82245060,"cemeteries,historic,burial_places,interesting_places",way/663000385
+440,Feature,11264592,Point,"[5.5744181, 46.0362625]",W154206249,Église Saint-Martin de Corcelles (Ain),14597.77334992,2,Q42433655,"religion,churches,interesting_places,catholic_churches",way/154206249
+441,Feature,16251635,Point,"[5.6253834, 45.7887764]",Q89551190,marais du Creux de Vau,14590.2035052,5,Q89551190,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+442,Feature,11541648,Point,"[5.5742354, 46.0363731]",W231736410,,14614.77015588,1,Q82243598,"cemeteries,historic,burial_places,interesting_places",way/231736410
+443,Feature,11972719,Point,"[5.7981381, 45.8302917]",W32809500,Ligne de la Maurienne,14686.96311887,3,Q3556568,"bridges,architecture,interesting_places,other_bridges",way/32809500
+444,Feature,11727779,Point,"[5.844872, 45.9380722]",N772177574,Vens,14747.53693038,2,Q15944518,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,other_fortifications",node/772177574
+445,Feature,2237748,Point,"[5.7213092, 46.0426941]",N2378129952,Croix des Terments,14712.22726646,1,,"other,unclassified_objects,interesting_places,historic_object",node/2378129952
+446,Feature,7206343,Point,"[5.7422609, 45.7999496]",N7417023145,Naissance d'une fleur,14719.67846445,1,,"cultural,urban_environment,interesting_places,sculptures",node/7417023145
+447,Feature,11727760,Point,"[5.742537, 45.8000412]",W209745939,,14720.19949769,1,Q27306089,"religion,churches,interesting_places,other_churches",way/209745939
+448,Feature,11543161,Point,"[5.8471723, 45.9188919]",W196508880,église de l'Assomption de Motz,14762.12929736,1,Q41795819,"religion,churches,interesting_places,catholic_churches",way/196508880
+449,Feature,2133869,Point,"[5.5140209, 46.0058746]",N6164694892,Vierge du Mont d'Aranc,14752.47779929,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/6164694892
+450,Feature,16251632,Point,"[5.5746913, 45.7985992]",Q89548912,pelouse sèche du Mont Pela,14744.98310454,5,Q89548912,"other,unclassified_objects,interesting_places,historic_object",
+451,Feature,11541625,Point,"[5.4842939, 45.8618851]",W257960427,Chartreuse Sainte-Marie-des-Portes,14785.4001752,7,Q2961278,"religion,monasteries,interesting_places",way/257960427
+452,Feature,2133625,Point,"[5.4842176, 45.8619156]",N2400628125,Église Sainte-Marie,14789.31671621,1,,"religion,other_temples,interesting_places",node/2400628125
+453,Feature,2237433,Point,"[5.8003011, 45.8306007]",N8870163726,Canon de Vions,14790.20850753,1,,"other,unclassified_objects,interesting_places,historic_object",node/8870163726
+454,Feature,2237432,Point,"[5.8002663, 45.8305664]",N8485438903,Canon de Vions,14790.60561895,1,,"view_points,other,interesting_places",node/8485438903
+455,Feature,11583026,Point,"[5.5182757, 45.8266106]",N1174683265,Gouffre de la Morgne,14812.57395419,2,Q93604410,"geological_formations,natural,interesting_places,caves",node/1174683265
+456,Feature,11236061,Point,"[5.5099936, 46.0034828]",W188340628,Église Saint-Paul d'Aranc,14817.14527307,2,Q27305460,"religion,churches,interesting_places,catholic_churches",way/188340628
+457,Feature,15794951,Point,"[5.5184002, 45.8264008]",Q89573271,gouffre de la Morne,14821.77853609,5,Q89573271,"interesting_places,natural,geological_formations,caves",
+458,Feature,16251593,Point,"[5.4719462, 45.883564]",Q89550074,falaise de Conand,14858.41177632,5,Q89550074,"other,unclassified_objects,interesting_places,historic_object",
+459,Feature,11263944,Point,"[5.6226125, 46.0495224]",W383815423,Marais de la Roche,14837.84954918,5,Q89551051,"aquatic_protected_areas,natural,interesting_places,nature_reserves",way/383815423
+460,Feature,11541645,Point,"[5.5084887, 46.0030785]",N6157267586,Aranc,14878.2176554,2,Q90852416,"historic,burial_places,interesting_places,war_memorials",node/6157267586
+461,Feature,7206342,Point,"[5.7425532, 45.7986107]",N7417002255,Cœur de tulipe,14862.83364446,1,,"cultural,urban_environment,interesting_places,sculptures",node/7417002255
+462,Feature,11541644,Point,"[5.5084653, 46.0031662]",N1528616188,,14885.92979831,1,Q90852416,"historic,burial_places,interesting_places,war_memorials",node/1528616188
+463,Feature,6816542,Point,"[5.4796638, 45.9703827]",N3544700252,Grotte de la Bruire,14916.50359878,1,,"geological_formations,natural,interesting_places,caves",node/3544700252
+464,Feature,11955491,Point,"[5.7095971, 45.7893982]",W30981237,Voie Romaine,14888.523223,1,,"cultural,urban_environment,interesting_places,squares",way/30981237
+465,Feature,6816516,Point,"[5.5083284, 45.833004]",N1174683255,Balme à Roland,14921.67743069,1,,"geological_formations,natural,interesting_places,caves",node/1174683255
+466,Feature,16251648,Point,"[5.4732399, 45.9589005]",Q89570169,village d'Oncieu,14943.20697039,6,Q89570169,"historic,historical_places,interesting_places,historic_settlements",
+467,Feature,11543145,Point,"[5.7707124, 45.8100319]",W323832234,,14921.08308948,1,Q82244025,"cemeteries,historic,burial_places,interesting_places",way/323832234
+468,Feature,6816515,Point,"[5.5068336, 45.8341064]",N4894007380,Grotte des Cascades de Luizet,14934.64583615,1,,"geological_formations,natural,interesting_places,caves",node/4894007380
+469,Feature,4960293,Point,"[5.5083666, 46.0037956]",N6162338861,Espace Comté d'Aranc,14936.27452275,1,,"cultural,museums,interesting_places,other_museums",node/6162338861
+470,Feature,14449083,Point,"[5.7706699, 45.8098717]",Q106097721,Cemetery cross of Lavours,14933.49834573,2,Q106097721,"religion,other_temples,interesting_places",
+471,Feature,16022534,Point,"[5.7377353, 45.7963295]",Q89550263,tourbière du Mont Vezin,14928.92352435,5,Q89550263,"aquatic_protected_areas,interesting_places,natural,nature_reserves",
+472,Feature,11358719,Point,"[5.7707596, 45.8097954]",W228270337,Église Saint-Pierre de Lavours,14944.29119728,2,Q27305875,"religion,churches,interesting_places,other_churches",way/228270337
+473,Feature,11727762,Point,"[5.7707071, 45.8096924]",N5071635432,Maison Gallet,14951.14300698,7,Q3278737,"architecture,historic_architecture,interesting_places,other_buildings_and_structures",node/5071635432
+474,Feature,2133626,Point,"[5.5065889, 45.8338432]",N574575326,Cascade de Luizet,14967.67114897,1,,"water,natural,interesting_places,waterfalls",node/574575326
+475,Feature,11324539,Point,"[5.7089562, 45.788765]",W262971451,Église Notre-Dame de Billieu,14942.49973202,2,Q37931382,"religion,churches,interesting_places,other_churches",way/262971451
+476,Feature,7033864,Point,"[5.6389484, 45.7843246]",W115222423,Tourbière du Lac de Chailloux,14943.4145396,5,Q89550275,"aquatic_protected_areas,water,natural,interesting_places,nature_reserves,other_lakes",way/115222423
+477,Feature,11386665,Point,"[5.4728432, 45.9595032]",N5580111440,,14992.91106905,1,Q90853214,"historic,burial_places,interesting_places,war_memorials",node/5580111440
+478,Feature,11235289,Point,"[5.4727626, 45.9595222]",W149759755,Église Saint-Laurent d'Oncieu,14999.52065839,2,Q27306036,"religion,churches,interesting_places,catholic_churches",way/149759755
+479,Feature,11727759,Point,"[5.7447166, 45.7982903]",W626288354,,14970.56991542,1,Q82244409,"cemeteries,historic,burial_places,interesting_places",way/626288354
+480,Feature,11358718,Point,"[5.7447052, 45.7982712]",N5912706092,,14972.07040502,1,Q90853301,"historic,burial_places,interesting_places,war_memorials",node/5912706092
+481,Feature,11403429,Point,"[5.7810817, 46.0218735]",W53840572,Église Saint-Jean-Baptiste de Lhôpital,15016.05944977,2,Q27305897,"religion,churches,interesting_places,catholic_churches",way/53840572
+482,Feature,2237759,Point,"[5.8512025, 45.9201164]",N4375640100,Point de Vue,15075.93015355,1,,"view_points,other,interesting_places",node/4375640100
+483,Feature,11474798,Point,"[5.8441415, 45.8820076]",W158429378,église Saint-Maurice de Serrières-en-Chautagne,15077.72736234,1,Q41795852,"religion,churches,interesting_places,other_churches",way/158429378
+484,Feature,6816514,Point,"[5.5142336, 45.8262291]",N6358512934,Gouffre,15071.00842397,1,,"geological_formations,natural,interesting_places,caves",node/6358512934
+485,Feature,11727761,Point,"[5.7732677, 45.8093796]",N4237679658,,15097.52530422,1,Q90852995,"historic,burial_places,interesting_places,war_memorials",node/4237679658
+486,Feature,6817063,Point,"[5.7658491, 46.0309258]",N4892579521,Grotte des Huguenots,15111.17423752,1,,"geological_formations,natural,interesting_places,caves",node/4892579521
+487,Feature,2133872,Point,"[5.5021615, 46.0011215]",N1528616165,Les Trois Croix,15127.47299546,1,,"historic,monuments_and_memorials,interesting_places,monuments",node/1528616165
+488,Feature,11785952,Point,"[5.6650977, 45.7824707]",W115827397,Chapelle d'Andert,15097.77021849,1,Q60336666,"religion,churches,interesting_places,other_churches",way/115827397
+489,Feature,2237746,Point,"[5.7268538, 46.0451241]",N3188130144,Cret de Beauregard,15115.10589282,1,,"view_points,other,interesting_places",node/3188130144
+490,Feature,2237749,Point,"[5.7829709, 46.0222015]",W188179230,cemetery of Lhôpital,15138.26889707,1,Q82245004,"cemeteries,historic,burial_places,interesting_places",way/188179230
+491,Feature,15393246,Point,"[5.8442702, 45.8793983]",Q15944530,château de Château Denys,15167.44212825,2,Q15944530,"architecture,historic_architecture,fortifications,historic,interesting_places,manor_houses,other_fortifications",
+492,Feature,11431236,Point,"[5.6444592, 45.7823219]",N4393129730,Camp préhistorique des Portes,15131.8800103,6,Q2935296,"fortifications,historic,archaeology,interesting_places,castles,other_archaeological_sites",node/4393129730
+493,Feature,6817062,Point,"[5.7305908, 46.044342]",N4890298792,Gouffre Michel Gallice,15140.91818577,1,,"geological_formations,natural,interesting_places,caves",node/4890298792
+494,Feature,15110179,Point,"[5.6631389, 45.7820015]",Q89602100,parc du Château d'Andert,15144.53725296,5,Q89602100,"gardens_and_parks,cultural,urban_environment,interesting_places",
+495,Feature,14652025,Point,"[5.4987273, 45.8379211]",Q89553430,bois d'Arella,15177.19108626,5,Q89553430,"interesting_places,natural,nature_reserves,other_nature_conservation_areas",
+496,Feature,11609358,Point,"[5.6631041, 45.7819939]",W115827444,Château d'Andert,15145.28661443,7,Q2968070,"fortifications,historic,interesting_places,castles",way/115827444
+497,Feature,7526689,Point,"[5.7093692, 45.7867584]",W262973012,cemetery of Billieu,15166.02909345,2,Q82244092,"cemeteries,historic,burial_places,interesting_places",way/262973012
+498,Feature,15276482,Point,"[5.8299599, 45.9826393]",Q38499814,église Saint-Didier de Bassy,15211.62829966,1,Q38499814,"religion,churches,interesting_places,other_churches",
+499,Feature,6793438,Point,"[5.8061905, 45.8295746]",N2338594829,Mollard de Vions,15211.17050824,3,Q106485923,"mountain_peaks,geological_formations,natural,interesting_places",node/2338594829
